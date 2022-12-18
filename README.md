@@ -1,5 +1,7 @@
 # Kingdom-Animalia-
-Week 5 Task @GenesysTechHub, given by Ezeh Livinus 
+
+Week 5 Task @GenesysTechHub, given by Ezeh Livinus. 
+
 This project was carried out to demostrate the four principles of Object-Oriented Programming in Javascript.
 
 Here is a brief explanation of how the principles of OOP were applied in the code kingdom Animalia.
